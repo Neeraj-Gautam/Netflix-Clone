@@ -5,7 +5,7 @@ A full stack Netflix Clone using React, Firebase &amp; Material-UI.
 Neeraj Gautam
 
 # demo
-The app is deployed using Firebase at Netflix Clone Link
+The app is deployed using Firebase at Netflix Clone Link:https://netflix-clone-e23d2.web.app
 
 # Available Scripts
 In the project directory, you can run:
